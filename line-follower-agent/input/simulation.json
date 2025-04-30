@@ -1,0 +1,10 @@
+{
+    "max_steps": 100,
+    "seed": 42,
+    "start": {
+      "row": 1,
+      "col": 1,
+      "orientation": "RIGHT"
+    },
+    "output_file": "results.json"
+}
